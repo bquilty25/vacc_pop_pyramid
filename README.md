@@ -1,4 +1,4 @@
-**Vaccine uptake in England by age and sex**
+### Covid-19 vccine uptake in England by age and sex
 
 
 Code to create the figure below can be found in `main.R`.
